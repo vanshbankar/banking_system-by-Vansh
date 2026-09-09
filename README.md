@@ -54,7 +54,7 @@ Make sure Python 3 is installed on your computer.
 
 Clone the repository:
 
-git clone 
+git clone https://github.com/vanshbankar/banking_system-by-Vansh.git
 
 Move into the project folder:
 
